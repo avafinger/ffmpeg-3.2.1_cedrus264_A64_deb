@@ -8,7 +8,7 @@ you better use previous version or make sure you have some sort of 2D optimizati
 Dependencies
 ============
 
-	sudo apt-get install libmp3lame-dev libx264-dev libpulse-dev libv4l-dev
+	sudo apt-get install libmp3lame-dev libx264-dev libpulse-dev libv4l-dev libav-dev
 
 
 Source Code and Instructions
